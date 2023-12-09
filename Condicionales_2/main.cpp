@@ -5,6 +5,7 @@ using namespace std;
 int main()
 {
     int x,y;
+
     cout<<"Ingrese el valor de x"<<endl;
     cin>>x;
     cout<<"Ingrese el valor de y"<<endl;
@@ -18,7 +19,6 @@ int main()
     else
     {
         //se ejecuta si la expresion if(x<y) es falso
-
         if(x>y)
         {
             //se ejecuta si la expresion if(x>y) es verdadero
@@ -29,7 +29,6 @@ int main()
             //se ejecuta si la expresion if(x>y) es false
             cout<<"x es igual que y"<<endl;
         }
-
 
     }
     return 0;

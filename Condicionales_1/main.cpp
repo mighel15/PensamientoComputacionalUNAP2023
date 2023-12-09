@@ -5,6 +5,7 @@ using namespace std;
 int main()
 {
     int x,y;
+
     cout<<"Ingrese el valor de x"<<endl;
     cin>>x;
     cout<<"Ingrese el valor de y"<<endl;
