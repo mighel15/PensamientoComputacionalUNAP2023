@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702309858 source:e:\pensamientocomputacional2023\pensamientocomputacionalunap2023\contarvocales\main.cpp
+	<iostream>
+	<string.h>
+
