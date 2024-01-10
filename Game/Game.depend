@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1704763664 source:e:\pensamientocomputacional2023\pensamientocomputacionalunap2023\game\main.cpp
+	<stdio.h>
+	<Windows.h>
+	<conio.h>
+	<stdlib.h>
+	<list>
+	<mmsystem.h>
+
