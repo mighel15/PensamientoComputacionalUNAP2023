@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1704923137 source:e:\pensamientocomputacional2023\pensamientocomputacionalunap2023\game22\main.cpp
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<stdio.h>
+
